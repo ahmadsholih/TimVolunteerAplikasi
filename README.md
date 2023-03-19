@@ -7,3 +7,5 @@ Repository Contoh ini digunakan sebagai sayembara pembuatan aplikasi
 Berikut daftar volunteer yang diterima :
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id)
 * Ahmad Solihin, [Linkedin](https://linked.in/ahmad)
+
+Mengubah themes.xml
