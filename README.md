@@ -10,6 +10,7 @@ Berikut daftar volunteer yang diterima :
 
 Update AndroidManifest add a new Activity there
 Mengubah themes.xml
+Add icon
 Add Activity in Android Manifest file
 
 
